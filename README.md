@@ -35,3 +35,5 @@ type_of_trip (relaxing, adventure, etc)
 
 
 
+
+<a href='https://learn.co/lessons/hs-intro-web-design-trip-planner' data-visibility='hidden'>View this lesson on Learn.co</a>
